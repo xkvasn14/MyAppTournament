@@ -3,3 +3,7 @@ C:\Users\jarek\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\b
 C:\Users\jarek\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 C:\Users\jarek\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
 C:\Users\jarek\source\repos\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\GitHub_Tournament_repos\MyAppTournament\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\GitHub_Tournament_repos\MyAppTournament\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\GitHub_Tournament_repos\MyAppTournament\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\GitHub_Tournament_repos\MyAppTournament\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
